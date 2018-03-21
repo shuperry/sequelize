@@ -80,7 +80,7 @@
     "pg-types": "^1.x",
     "rimraf": "^2.5.4",
     "semantic-release": "^15.0.0",
-    "sinon": "^4.3.0",
+    "sinon": "^5.0.0",
     "sinon-chai": "^2.14.0",
     "sqlite3": "^3.x",
     "tedious": "1.14.0",
